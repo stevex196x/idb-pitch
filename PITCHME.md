@@ -19,7 +19,7 @@
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-## Template Features
+## Demonstration
 
 - Code Presenting |
 - Repo Source, Static Blocks, GIST |
@@ -75,7 +75,10 @@ http.createServer(function (request, response) {
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-## Template Help
+## Self Critique
+
+---
+## Other Critique
 
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
   + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
@@ -86,7 +89,7 @@ http.createServer(function (request, response) {
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-## Go GitPitch Pro!
+## Visualization
 
 <br>
 <div class="left">
@@ -106,15 +109,8 @@ http.createServer(function (request, response) {
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-### Questions?
+# Questions?
 
-<br>
-
-@fa[twitter gp-contact](@gitpitch)
-
-@fa[github gp-contact](gitpitch)
-
-@fa[medium gp-contact](@gitpitch)
 
 ---?image=assets/image/gitpitch-audience.jpg
 
