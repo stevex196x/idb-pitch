@@ -19,14 +19,7 @@
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-## Demonstration
-
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+### Demonstration
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 

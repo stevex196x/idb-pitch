@@ -57,7 +57,8 @@
 }
 
 #title-footer p.footer-hard {
-    color: #b6b6b6;
+    /*color: #b6b6b6;*/
+    color: white;
 }
 
 #title-footer p.footer-fade {
