@@ -104,11 +104,3 @@ http.createServer(function (request, response) {
 
 # Questions?
 
-
----?image=assets/image/gitpitch-audience.jpg
-
-@title[Download this Template!]
-
-### Get your presentation started!
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/space)
-
